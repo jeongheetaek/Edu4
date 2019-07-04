@@ -16,7 +16,7 @@ public class ArgsEx {
 		System.out.println("수학 = " + args[1]);
 		System.out.println("영어 = " + args[2]);
 		
-		int args_num[] = null;
+		//int args_num[] = null;
 		
 		//args_num[0] = Integer.valueOf(args[0]);
 		//System.out.println(args_num[0]);
